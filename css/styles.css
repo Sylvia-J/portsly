@@ -1,0 +1,31 @@
+h1{
+  color: #001188;
+  text-align: center;
+}
+h2{
+  color: #001144;
+}
+p{
+  font-family: times new roman;
+  font-size: 14pt;
+}
+.about{
+  text-align: justify;
+  position: static;
+  bottom: 0;
+}
+img{
+  float: left;
+  padding-left: 250px;
+}
+.intro{
+  width: 40%;
+  float: right;
+  background-color: #ffffff;
+  padding-right: 200px;
+}
+body{
+  padding: 50px;
+  background-image: url("../images/background7.jpg");
+  background-repeat: repeat;
+}
